@@ -1,16 +1,25 @@
-### Hi there 👋
+<h3 align="center">Hi, and WELCOME  你好, 欢迎！</h3>
 
-<!--
-**hui0927/hui0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">
+About ME | 关于我
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>
+
+🌱 Currently I'm a 2019 undergraduate majoring in **Computer Science** at ***[ZhengZhou University of Science and Technology](https://www.zueb.edu.cn/), 🇨🇳***. 
+
+目前我是一名 ***郑州经贸学院*** **计算机科学与技术专业** 2024级本科生。
+
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=hui875&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
+
+
+<h3 align="center">Thanks for visiting my GitHub :-) Wish you have a good time here! 🎉 Please continue your visit ↓</h3>
+
+<h3 align="center">感谢您访问我的GitHub:祝您在这里玩得愉快！🎉
