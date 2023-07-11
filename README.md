@@ -9,7 +9,7 @@ About ME | 关于我
 
 🌱 Currently I'm a 2024 undergraduate majoring in **Computer Science** at ***[ZhengZhou University of Science and Technology](https://www.zueb.edu.cn/), 🇨🇳***. 
 
-目前我是一名 ***郑州经贸学院*** **计算机科学与技术专业** 2024级本科生。***博客***：https://www.yuque.com/boyhui
+目前我是一名 ***郑州经贸学院*** **计算机科学与技术专业** 2024届本科生。***博客***：https://www.yuque.com/boyhui
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=hui0927&show_icons=true&theme=tokyonight)![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&layout=compact&theme=tokyonight)
 
