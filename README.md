@@ -12,6 +12,7 @@ About ME | 关于我
 目前我是一名 ***郑州经贸学院*** **计算机科学与技术专业** 2024级本科生。
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=hui875&show_icons=true&theme=tokyonight)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&layout=compact&theme=tokyonight)
 
 
 
